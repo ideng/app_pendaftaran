@@ -4,6 +4,14 @@
     </script>
 
     <ul class="nav nav-list">
+        <li class="active">
+            <a href="blank.html">
+                <i class="menu-icon fa fa-caret-right"></i>
+                Blank Page
+            </a>
+
+            <b class="arrow"></b>
+        </li>
         <li class="">
             <a href="index.html">
                 <i class="menu-icon fa fa-tachometer"></i>
