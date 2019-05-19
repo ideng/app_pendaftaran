@@ -7,3 +7,4 @@ include $tmp_folder.'breadcrumbs.php';
 include $tmp_folder.'sidebar.php';
 include $tmp_folder.'routes.php';
 include $tmp_folder.'footer.php';
+?>
